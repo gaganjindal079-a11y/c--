@@ -24,4 +24,5 @@ int main(){
     std::vector<int> arr = {0,5,10,5,2,1,0};
     int x = peakIndex(arr);
     std::cout<< x;
+    std::cout << "Hello guys!!!!"
 }
